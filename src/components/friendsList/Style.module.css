@@ -1,0 +1,28 @@
+.friendsItem {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid #b15a5a;
+    padding: 10px;
+    border-radius: 5px;
+    width: 200px;
+    height: 200px;
+}
+
+.container {
+    display: flex;
+}
+
+
+.status {
+    font-size: 20px;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+
+}
