@@ -1,4 +1,4 @@
-import css from "./Style.module.css";
+import css from "../Style.module.css";
 
 function FriendsListItem({ avatar, name, isOnline = false }) {
     return (
